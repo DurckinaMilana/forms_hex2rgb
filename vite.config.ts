@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/ra-forms-hex2rgb/'
+  base: '/forms_hex2rgb/'
 })
