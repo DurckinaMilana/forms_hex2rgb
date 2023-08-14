@@ -28,9 +28,9 @@
     text-align: center;
     font-size: 20px;
     letter-spacing: 2px;
-    background-color: orangered;
   }
   
   .input {
     text-transform: lowercase;
+    background-color: orangered;
   }
