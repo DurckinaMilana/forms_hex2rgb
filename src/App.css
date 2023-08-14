@@ -11,6 +11,7 @@
   
   .app {
     background-color: #ada7a7;
+    background-color: orangered;
   }
   
   .color-container {
@@ -32,5 +33,4 @@
   
   .input {
     text-transform: lowercase;
-    background-color: orangered;
   }
