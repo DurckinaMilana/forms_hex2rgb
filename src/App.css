@@ -7,10 +7,7 @@
   body {
     width: 100%;
     min-height: 100vh;
-  }
-  
-  .app {
-    background-color: #ada7a7;
+    background-color: #ffffff;
   }
   
   .color-container {
