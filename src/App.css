@@ -9,16 +9,19 @@
     min-height: 100vh;
   }
   
-
+  .app {
+    background-color: #ada7a7;
+  }
   
   .color-container {
-    min-height: 100vh;
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
-    gap: 5px;
-    background-color: red;
+    justify-content: center;
+    margin: 0 auto;
+    min-height: 100vh;
+    line-height: 1.5;
+    overflow: hidden;
   }
   
   .color__input {
